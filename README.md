@@ -16,7 +16,7 @@ A JavaScript script for capturing, storing, and managing UTM parameters in local
 Copy and paste the following tag into the `<head>` or before the closing `<body>` tag of your HTML file:
 
 ```html
-<script src="https://hsynkvlc.github.io/utm-parameter-tracker/utm-tracker.js"></script>
+<script src="https://raw.githubusercontent.com/hsynkvlc/utm-parameter-tracker/main/utm-tracker.js"></script>
 ```
 Replace `USERNAME` with your GitHub username and ensure the repository is publicly hosted.
 
