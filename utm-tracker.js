@@ -1,4 +1,3 @@
-  <script>
   (function () {
     // Function to get URL parameters
     function getParams(url) {
@@ -123,4 +122,3 @@
     // Add UTM parameters to all links
     addParamsToLinks(combinedParams);
   })();
-</script>
